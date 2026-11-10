@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 620" fill="none">
+<defs><pattern id="mesh" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M0 0H18V18" stroke="#777a70" stroke-width=".8"/></pattern><pattern id="side" width="14" height="18" patternUnits="userSpaceOnUse" patternTransform="skewY(-28)"><path d="M0 0H14V18" stroke="#777a70" stroke-width=".7"/></pattern></defs>
+<circle cx="440" cy="216" r="185" fill="#eadfb8"/>
+<path d="M82 450V307h45v-92h48v235M555 450V259h47v-63h32v254" fill="#e3e5da"/>
+<path d="M112 459H539L610 415H183Z" fill="#c8c9b9" stroke="#313a31" stroke-width="2"/>
+<path d="M112 134H539L610 91H183Z" fill="#efeade" stroke="#313a31" stroke-width="2"/>
+<path d="M112 134V459M539 134V459M610 91V415" stroke="#343f35" stroke-width="5"/>
+<path d="M121 142H532V451H121Z" fill="#ffffff" fill-opacity=".36"/>
+<path d="M121 142H532V451H121Z" fill="url(#mesh)"/>
+<path d="M546 138L603 103V411L546 445Z" fill="url(#side)"/>
+<path d="M112 134H539L610 91M539 134V459L610 415" stroke="#343f35" stroke-width="3"/>
+<path d="M112 134H539V459H112Z" stroke="#343f35" stroke-width="2"/>
+<path d="M112 360H539L610 316M112 371H539L610 327M140 371V459M205 371V459M270 371V459M335 371V459M400 371V459M465 371V459M575 350V436" stroke="#343f35" stroke-width="4"/>
+<path d="M160 455V421h39v34" fill="#a86f44"/><path d="M179 421v-47m0 20c-25-1-34-15-31-25 23 0 31 10 31 25Zm0-8c19-5 28-18 24-28-18 3-24 14-24 28Z" fill="#5e704d" stroke="#5e704d" stroke-width="2"/>
+<path d="M122 504H529M122 496V512M529 496V512" stroke="#343f35" stroke-width="1.5"/>
+<path d="m132 500-10 4 10 4m387-8 10 4-10 4" stroke="#343f35" stroke-width="1.5"/>
+<path d="M73 145V449M65 145H81M65 449H81" stroke="#343f35" stroke-width="1.5"/>
+<path d="m69 155 4-10 4 10m-8 284 4 10 4-10" stroke="#343f35" stroke-width="1.5"/>
+<g fill="#343f35" font-family="Arial,sans-serif" font-size="15" letter-spacing="2"><text x="292" y="535">ANCHO</text><text transform="translate(48 317) rotate(-90)">ALTO</text></g>
+<rect x="418" y="54" width="177" height="33" rx="16.5" fill="#f6bd31"/><text x="506" y="75" text-anchor="middle" fill="#26372c" font-family="Arial,sans-serif" font-size="12" letter-spacing="1">RED A MEDIDA</text>
+</svg>
